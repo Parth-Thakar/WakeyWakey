@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WakeyWakey</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="edit_alarm">Edit Alarm</string>
+    <string name="no_alarms_title">No alarms yet</string>
+    <string name="no_alarms_subtitle">Tap + to set your first alarm</string>
+    <string name="alarm_label_hint">Label (optional)</string>
+    <string name="repeat">Repeat</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="math_challenge">Math Challenge</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="active">active</string>
+    <string name="alarm_channel_name">Alarm</string>
+    <string name="alarm_channel_desc">Alarm notifications</string>
+    <string name="wake_up_title">WAKE UP!</string>
+    <string name="solve_to_dismiss">Solve to dismiss</string>
+    <string name="wrong_answer">Wrong, try again</string>
+    <string name="correct">Correct!</string>
+    <string name="alarm_dismissed">All done! Rise and grind</string>
+    <string name="notification_title">WakeyWakey</string>
+    <string name="default_ringtone">Default Alarm</string>
+</resources>
