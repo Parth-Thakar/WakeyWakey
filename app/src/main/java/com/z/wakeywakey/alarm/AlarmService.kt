@@ -61,6 +61,7 @@ class AlarmService : Service() {
 
             playRingtone(ringtoneUri, alarm.isVibrate)
             startActivity(ringIntent)
+            AlarmReceiver.releaseWakeLock()
         } else {
             stopSelf()
         }
