@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">WakeyWakey</string>
+    <string name="app_name">Wakey</string>
     <string name="add_alarm">Add Alarm</string>
     <string name="edit_alarm">Edit Alarm</string>
     <string name="no_alarms_title">No alarms yet</string>
